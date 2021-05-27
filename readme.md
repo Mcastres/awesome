@@ -573,6 +573,7 @@
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
 - [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 - [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
+- [Strapi](https://github.com/strapi/awesome-strapi#readme) - 100% Javascript (Node.js + React), fully customizable and self-hosted open-source headless CMS.
 
 ## Hardware
 
